@@ -1,0 +1,7 @@
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\bin\Debug\SelectionSort121217.exe.config
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\bin\Debug\SelectionSort121217.exe
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\bin\Debug\SelectionSort121217.pdb
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\obj\Debug\SelectionSort121217.csprojResolveAssemblyReference.cache
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\obj\Debug\SelectionSort121217.csproj.CoreCompileInputs.cache
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\obj\Debug\SelectionSort121217.exe
+C:\Users\hilal\source\repos\SelectionSort121217\SelectionSort121217\obj\Debug\SelectionSort121217.pdb
