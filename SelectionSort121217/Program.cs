@@ -10,7 +10,16 @@ namespace SelectionSort121217
     {
         static void Main(string[] args)
         {
-            int[] dizi = new int[] { 15, 5, 3, 21, 12, 4, 6 };
+            Console.Write("Kaç adet sayı gireceksiniz?");
+	    int count = int.Parse(Console.ReadLine());
+	    int dizi[] = new int[count];
+
+	    for(int i = 0; i < count; i++)
+	    {
+		    Console.Write(i + 1 + ". sayıyı giriniz:");
+		    dizi[i] = int.Parse(Console.ReadLine());
+	    }
+
             selectionSort(dizi);
             print(dizi);
         }
